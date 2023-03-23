@@ -17,11 +17,6 @@ body {
     margin: 0;
   }
 
-  h2 {
-color: #333;
-display: flex;
-  }
-
   
   nav ul {
     list-style: none;
