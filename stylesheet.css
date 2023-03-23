@@ -16,6 +16,10 @@ body {
   h1 {
     margin: 0;
   }
+
+  h2 {
+    color: #b78e4f;
+  }
   
   nav ul {
     list-style: none;
