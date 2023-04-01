@@ -14,19 +14,21 @@ header {
 }
 
 h1 {
+  clear: both;
   margin: 0;
   color: #b78e4f;
 }
 
 p {
-  text-align: justify;
   padding-left: 5%;
   padding-right: 5%;
-
+  margin-left: 4%;
 }
+
 
 h3 {
   padding-left: 5%;
+  clear: both;
 }
 
 .pdf {
@@ -36,9 +38,22 @@ h3 {
   height: 500px;
 }
 
-.img {
+.img,
+video {
+  float: left;
+  margin-left: 4%;
   padding: 5%;
   width: 20%;
+}
+
+.ü1 {
+  color: #B6A536;
+  text-decoration: dashed;
+  font-family: fantasy;
+}
+.text1 {
+  color: #B6A536;
+
 }
 
 nav ul {
@@ -69,6 +84,7 @@ h2 {
   margin-top: 0;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: x-large;
+  clear: both;
 }
 
 footer {
